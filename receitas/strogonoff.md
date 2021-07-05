@@ -1,12 +1,13 @@
+# Comecando -- Linha 1
 potrace - utility to transform bitmaps into vector graphics
 proftpd-mod-vroot - ProFTPD module mod_vroot
 python3-cairo-doc - Python 3 cairo bindings: documentation files
 python-argh - simple argparse wrapper (Python 2)
 
 
-
-python3-argh - simple argparse wrapper (Python 3)
-python-invoke - Pythonic task execution - Python 2.x
+## Linha 2
+ * python3-argh - simple argparse wrapper (Python 3)
+ * python-invoke - Pythonic task execution - Python 2.x
 python3-invoke - Pythonic task execution - Python 3.x
 python-monotonic - implementation of time.monotonic() - Python 2.x
 python3-monotonic - implementation of time.monotonic() - Python 3.x
